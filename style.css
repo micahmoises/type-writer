@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #e5b8f4;
+  font-family: "Poppins";
+}
+
+.typewriter {
+  text-align: center;
+  color: white;
+  font-size: 10px;
+}
