@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // Declaring array for text typing
   const textArray = [
     "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error, corporis?",
     "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error, corporis?",
